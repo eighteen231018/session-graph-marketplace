@@ -1,0 +1,19 @@
+{
+  "name": "session-graph-marketplace",
+  "owner": {
+    "name": "eighteen231018"
+  },
+  "metadata": {
+    "description": "Self-hosted Claude Code marketplace for session-graph."
+  },
+  "plugins": [
+    {
+      "name": "session-graph",
+      "source": {
+        "source": "github",
+        "repo": "eighteen231018/session-graph"
+      },
+      "description": "Visualize Claude Code session branches as a card tree."
+    }
+  ]
+}
